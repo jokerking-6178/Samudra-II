@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animejs": "^4.1.4",
+    "echarts": "^6.0.0",
+    "lucide-react": "^0.544.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
